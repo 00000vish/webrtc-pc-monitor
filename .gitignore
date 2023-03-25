@@ -1,2 +1,5 @@
 /server/package-lock.json
 /client/go.sum
+/admin-client/.next
+/admin-client/node_modules
+/admin-client/package-lock.json
