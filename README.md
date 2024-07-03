@@ -1,4 +1,4 @@
-# webrtc-pc-viewer
+# webrtc-pc-monitor
 Monitor mutiple pc with webrtc. Developed for educational purposes. 
 
 ## Admin Client
